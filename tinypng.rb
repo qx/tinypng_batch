@@ -38,7 +38,7 @@ class Tinypng
 
   def compress file
 
-    key = "xQvjzXFU7skpY-AVKCE4D7AKgq1yDciC"
+    key = "ENTER YOUR API KEY"
     input = file
     output = file
 
